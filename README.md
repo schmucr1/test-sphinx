@@ -7,4 +7,6 @@ Link to the documentation of this repository:
 https://schmucr1.github.io/test-sphinx/
 
 
-Link to the [documentation](https://schmucr1.github.io/test-sphinx/){:target="_blank"} of this repository.
+
+Link to the <a href="https://schmucr1.github.io/test-sphinx/" target="_blank">documentation</a> of this repository.
+
